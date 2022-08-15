@@ -30,5 +30,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-Сайт-1769FF?style=flat&logo=wordpress&logoColor=white"/></a>
+<a href="https://ichiblog.ru"><img src="https://img.shields.io/badge/-Сайт-1769FF?style=flat&logo=wordpress&logoColor=white"/></a>
 </p>
