@@ -32,3 +32,12 @@
 <p align="center">
 <a href="https://ichiblog.ru"><img src="https://img.shields.io/badge/-Сайт-1769FF?style=flat&logo=wordpress&logoColor=white"/></a>
 </p>
+
+
+### Donate
+
+[Тинькофф](https://www.tinkoff.ru/cf/VApzsOepH2)&nbsp;
+[Yoomoney](https://sobe.ru/na/yandex_turbo_for_mediawiki)&nbsp;
+[Donate.Stream](https://donate.stream/ichi)&nbsp;
+[PayPal](https://www.paypal.com/paypalme/ichinya)&nbsp;
+[donationalerts](https://www.donationalerts.com/r/ichi_nya)&nbsp;
