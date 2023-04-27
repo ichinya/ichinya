@@ -34,7 +34,7 @@
 </p>
 
 
-### Donate
+### 💰 Donate
 
 [Тинькофф](https://www.tinkoff.ru/cf/VApzsOepH2)&nbsp;
 [Yoomoney](https://sobe.ru/na/yandex_turbo_for_mediawiki)&nbsp;
