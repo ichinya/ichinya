@@ -21,7 +21,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ichiblog">
+<a href="https://ichiblog.ru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ichinya&theme=dracula&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ichinya&theme=dracula&layout=compact&langs_count=8"/>
 </a>
