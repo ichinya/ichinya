@@ -26,6 +26,8 @@
 
 <p align="center">
 <a href="https://ichiblog.ru"><img alt="Сайт ichiblog.ru" src="https://img.shields.io/badge/-%D0%A1%D0%B0%D0%B9%D1%82-1769FF?style=flat&logo=wordpress&logoColor=white"/></a>
+&nbsp;
+<a href="https://t.me/ichi_blog"><img alt="Телеграм-блог" src="https://img.shields.io/badge/-%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
 </p>
 
 ### 💰 Donate
