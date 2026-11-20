@@ -1,0 +1,30 @@
+# Змейка по вкладам: генерирует SVG и публикует его в отдельную ветку output,
+# поэтому история main остаётся чистой. В README подключается через raw.githubusercontent.
+name: Snake
+on:
+  # Раз в сутки (через час после Metrics)
+  schedule: [{cron: "0 2 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
